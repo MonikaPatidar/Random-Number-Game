@@ -1,0 +1,57 @@
+#number-guess, #result, #history {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#history {
+    margin-top: 16px;
+}
+  
+.banner {
+    color: #FFD23F;
+    font-size: 90px;
+    font-family: sans-serif;
+}
+.row{
+    
+    margin: 2%;
+}
+.NumRange{
+    height: 5%;
+    width:45%;
+    margin-left: 33%;
+}
+.InptField{
+    margin-left: 2%;
+}
+.RangeI{
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.Submt{
+    background-color:#6c757d;;
+    border-radius: 3px;
+    color:white;
+}
+/* #RangeSection {
+
+    display:none;
+    
+    } */
+#CHoiceDiv{
+    margin:0% 30% 2% 30%;
+    border-radius: 5px;
+}
+#min{
+    border-radius: 5px;
+    margin: 1% 0% 1% 0%;
+}
+#max{
+    border-radius: 5px;
+    margin: 1% 0% 1% 0%;
+}
+#SubmitChoice{
+    border-radius: 5px;
+    background-color: #6c757d;
+    color:white;
+}
